@@ -28,7 +28,7 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 <img src={IMG2} alt="" />
             </div>
-            <h3>Beauty Garden</h3>
+            <h3>LMS</h3>
             <small className='text-light'>ReactJs | NodeJs | ExpressJs | MongoDb</small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/satyam-kumar-21/LMS" target="_blank" rel='noreferrer' className='btn'>Github</a>  
